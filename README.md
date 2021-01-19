@@ -1,3 +1,3 @@
 # HTML & CSS popup window
 
-[demo](https://guides.github.com/features/mastering-markdown/)
+[demo](https://alstep07.github.io/popup-window/)
